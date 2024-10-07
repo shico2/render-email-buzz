@@ -29,11 +29,10 @@ In blender:
 
 8) Enter the "Sender" and "Receiver" emails, along with the app password you generated before.
 
+= Now every time a render is complete, you will receive an email.
+
 * If using a different email provider, edit the "SMTP" server in the add-on file using Notepad.
 
-= Every time a render is complete, you will receive an email.
+* Un-check the box, to disable the add-on when you want to do quick render tests.
 
-
-* Un-check the box to disable the add-on when you want to do quick render tests.
-
-** If you save the file, the details will be saved with the current project. However, if you open a new project you will have to fill the details again.
+* If you save the file, the details will be saved with the current project. However, if you open a new project you will have to fill the details again.
