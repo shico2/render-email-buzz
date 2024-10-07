@@ -1,4 +1,5 @@
 Render Email Buzz v01 by Shico
+Tested with Blender versions 3.5 to 4.1
 
 
 A simple Blender add-on, when active, it sends you an email when a render is complete.
@@ -22,12 +23,13 @@ Using the add-on:
 In blender:
 
 5) Go to Edit -> Preferences -> Add-ons -> Install , navigate to where the add-on file was downloaded and select it.
+   * Extract the zipped folder and select "render email buzz.py" to install
 
-6) check the box to activate the add-on. and the go find it in the "Properties" panel under "Scene" tab.
+7) check the box to activate the add-on. and the go find it in the "Properties" panel under "Scene" tab.
 
-7) Scroll down to "Enable Email Notification" and enable it if it is not checked yet.
+8) Scroll down to "Enable Email Notification" and enable it if it is not checked yet.
 
-8) Enter the "Sender" and "Receiver" emails, along with the app password you generated before.
+9) Enter the "Sender" and "Receiver" emails, along with the app password you generated before.
 
 = Now every time a render is complete, you will receive an email.
 
