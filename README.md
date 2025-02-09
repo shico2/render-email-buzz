@@ -1,5 +1,5 @@
 Render Email Buzz v01 by Shico
-Tested with Blender versions 3.5 to 4.1
+Tested with Blender versions 3.5 to 4.3
 
 
 A simple Blender add-on, when active, it sends you an email when a render is complete.
